@@ -66,4 +66,22 @@ https://github.com/imkumar77/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Dashboa
 
 **Location Impact:** Footfall and sales vary across different store locations.
 
+## Key Achivement 
+
+**Strong Revenue Generation:** Achieved a total sales revenue of $6,98,812.33, indicating a successful business operation.
+High Customer Traffic: Attracted a total footfall of 149,116 customers, demonstrating strong customer interest and brand appeal.
+
+**Operational Efficiency:**
+Consistent Customer Spending: Maintained an average bill/person of 4.69, suggesting consistent spending per customer visit.
+High Order Frequency: Achieved an average order size of 1.44, indicating multiple items are typically ordered per visit.
+
+**Sales and Marketing Success:**
+Identified Peak Sales Periods: Successfully identified peak sales periods (lunch and dinner times, Tuesdays and Fridays), allowing for optimized staffing and promotional strategies.
+Successful Product Mix: Established a diverse product mix with a range of popular and profitable categories.
+
+**Store Management:**
+Effective Store Location Strategy: Demonstrated varying levels of success across different store locations, indicating the potential to optimize store locations for maximum impact.
+
+
+
 
