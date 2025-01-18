@@ -16,21 +16,30 @@ https://github.com/imkumar77/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales.x
 ![{1FCB6585-4AFF-46BE-8957-66312CFD1D92}](https://github.com/user-attachments/assets/cad77634-1254-4075-8dc5-e36910d16f47)
 
 ## Steps Followed
-**Data Preparation:**
+**Data Preparation:** 
+
 Obtain a sample dataset from the internet, specifically the "Coffee Shop Sales" dataset from Maven Analytics.
 Review the data dictionary to understand the structure and meaning of the data.
+
 **Creating Pivot Tables:**
+
 Create multiple pivot tables to analyze different aspects of the data, such as:
 Sales by hour of the day
 Sales by day of the week
 Sales by month
 Sales by product category
 Sales by product type
+
 **Formatting and Visualizations:**
+
 Format the pivot tables to improve readability.
 Create various charts, including bar charts, column charts, and a pie chart, to visualize the data.
 Use a custom color palette to enhance the visual appeal of the dashboard.
+
 **Arranging the Dashboard:**
+
 Arrange the pivot tables and charts on the worksheet to create a visually appealing and informative dashboard.
-**Adding Slicers (Optional):**
+
+**Adding Slicers :**
+
 Add slicers to the dashboard to allow for interactive filtering of the data.
