@@ -55,10 +55,15 @@ https://github.com/imkumar77/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Dashboa
 ## Key insights
 
 **Strong Overall Performance:** High total sales and footfall indicate a successful business.
+
 **Consistent Demand:** Average bill per person and order size suggest consistent customer spending.
+
 **Peak Hours:** Sales peak around morning and Evening times.
+
 **Weekday Variation:** Tuesday and Friday have the highest sales, while Saturday has the lowest.
+
 **Product Mix:** The pie chart shows the distribution of sales across different product categories.
+
 **Location Impact:** Footfall and sales vary across different store locations.
 
 
