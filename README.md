@@ -49,4 +49,4 @@ https://github.com/imkumar77/Coffee-Shop-Sales/blob/main/coffe%20Shop%20Sales%20
 
 ## Iamge of the Dashboard
 
-
+https://github.com/imkumar77/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Dashboard%20Sc.png
