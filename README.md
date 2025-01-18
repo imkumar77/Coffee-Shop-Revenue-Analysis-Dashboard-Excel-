@@ -50,3 +50,5 @@ https://github.com/imkumar77/Coffee-Shop-Sales/blob/main/coffe%20Shop%20Sales%20
 ## Iamge of the Dashboard
 
 https://github.com/imkumar77/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Dashboard%20Sc.png
+![Coffee Shop Dashboard Sc](https://github.com/user-attachments/assets/2d9e30a9-8150-432d-a309-8531ad407f7d)
+
