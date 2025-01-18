@@ -45,4 +45,8 @@ Arrange the pivot tables and charts on the worksheet to create a visually appeal
 Add slicers to the dashboard to allow for interactive filtering of the data.
 
 ## Coffee shop Sales Analyised Sheet with Dashboard
+https://github.com/imkumar77/Coffee-Shop-Sales/blob/main/coffe%20Shop%20Sales%20Dashboard.xlsx
+
+## Iamge of the Dashboard
+
 
