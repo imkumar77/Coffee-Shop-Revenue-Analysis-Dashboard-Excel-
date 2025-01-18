@@ -10,3 +10,7 @@ To conduct a comprehensive analysis of retail sales data to extract actionable i
 5. what is the average price/order per person
 6. Which products are the best-selling in terms of quantity and revenue?
 7. How do sales vary by product category and type?
+
+## Data Used
+https://github.com/imkumar77/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales.xlsx
+![{1FCB6585-4AFF-46BE-8957-66312CFD1D92}](https://github.com/user-attachments/assets/cad77634-1254-4075-8dc5-e36910d16f47)
