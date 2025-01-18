@@ -52,3 +52,13 @@ https://github.com/imkumar77/Coffee-Shop-Sales/blob/main/coffe%20Shop%20Sales%20
 https://github.com/imkumar77/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Dashboard%20Sc.png
 ![Coffee Shop Dashboard Sc](https://github.com/user-attachments/assets/2d9e30a9-8150-432d-a309-8531ad407f7d)
 
+## Key insights
+
+**Strong Overall Performance:** High total sales and footfall indicate a successful business.
+**Consistent Demand:** Average bill per person and order size suggest consistent customer spending.
+**Peak Hours:** Sales peak around morning and Evening times.
+**Weekday Variation:** Tuesday and Friday have the highest sales, while Saturday has the lowest.
+**Product Mix:** The pie chart shows the distribution of sales across different product categories.
+**Location Impact:** Footfall and sales vary across different store locations.
+
+
