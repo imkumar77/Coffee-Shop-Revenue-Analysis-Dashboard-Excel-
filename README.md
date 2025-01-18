@@ -43,3 +43,6 @@ Arrange the pivot tables and charts on the worksheet to create a visually appeal
 **Adding Slicers :**
 
 Add slicers to the dashboard to allow for interactive filtering of the data.
+
+## Coffee shop Sales Analyised Sheet with Dashboard
+
