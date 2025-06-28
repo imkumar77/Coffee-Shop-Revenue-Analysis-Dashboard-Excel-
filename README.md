@@ -106,7 +106,7 @@ https://github.com/imkumar77/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Dashboa
 
   **Sales and Marketing Success**
   
--Identified Peak Sales Periods: Successfully identified peak sales periods (lunch and dinner times, Tuesdays and Fridays), allowing for optimized staffing and promotional strategies.
+- Identified Peak Sales Periods: Successfully identified peak sales periods (lunch and dinner times, Tuesdays and Fridays), allowing for optimized staffing and promotional strategies.
 
 - Successful Product Mix: Established a diverse product mix with a range of popular and profitable categories.
 
