@@ -1,4 +1,7 @@
 # Coffee-Shop-Sales Analysis in Excel
+
+![Logo Coffee](https://github.com/user-attachments/assets/a157a56e-06e3-475e-ae79-d20798a7d065)
+
 ---
 
 ## Objective
