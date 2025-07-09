@@ -129,7 +129,10 @@ https://github.com/imkumar77/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Dashboa
 
 - Overall, this analysis provides a solid foundation for informed decision-making and continuous improvement in the coffee shop's operations. Future analyses could delve deeper into customer demographics, loyalty programs, and online ordering options to further enhance the business's performance.
 
+---
 
+## License
+This project is licensed under the MIT License.
 
 
 
